@@ -6,4 +6,4 @@ Hello everyone! This is the first change.
 another change
 
 This is patrick editing code.
-hell this is janiece
+hello this is janiece
